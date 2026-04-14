@@ -1,1 +1,1 @@
-# Crop-prediction
+# potatao disease analyzer

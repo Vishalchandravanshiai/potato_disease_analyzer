@@ -14,7 +14,7 @@ Try the application on Hugging Face:
 
 View the complete source code and project files:
 
-👉 [GitHub Repository](https://github.com/Vishalchandravanshii/potato_disease_analyzer)
+👉 [GitHub Repository](https://github.com/Vishalchandravanshiai/potato_disease_analyzer)
 
 ## 🤖 Model
 

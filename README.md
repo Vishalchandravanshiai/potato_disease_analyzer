@@ -97,6 +97,10 @@ The model predicts one of the following classes:
 - Early Blight
 - Late Blight
 
+  ## 📸 Project Preview
+
+![Potato Disease Analyzer](screenshot.png)
+
 ## ⚠️ Disclaimer
 
 This project is intended for **educational and research purposes**. It should not be considered a substitute for professional agricultural diagnosis or expert agricultural advice.

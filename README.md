@@ -99,7 +99,7 @@ The model predicts one of the following classes:
 
   ## 📸 Project Preview
 
-![Potato Disease Analyzer](screenshot.png)
+![Potato Disease Analyzer](Screenshot.png)
 
 ## ⚠️ Disclaimer
 
